@@ -1,0 +1,29 @@
+/*
+
+Estilos de Joseph
+Práctica de Página en bootstrap y Wordpress
+
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+/*ESTILOS BANNER*/
+
+.cont_banner {
+    background-color: #754ffe!important;
+}
+.cont_banner h1 {
+    font-weight: 700;
+    letter-spacing: 0.05rem;
+    padding-bottom: 10px;
+}
+.cont_banner p {
+    letter-spacing: 0.05rem;
+    padding-bottom: 10px;
+}
+.text-white-50 {
+    color: hsla(0, 0%, 100%, .5)!important;
+}
+/*FIN ESTILOS BANNER*/
